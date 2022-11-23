@@ -6,7 +6,7 @@ Actualmente me encuentro cursando en Rolling Code School y buscando mi primer tr
 
 <!-- - 🔭 I’m currently working on this page. -->
 - 🌱 Actualmente estoy aprendiendo JavaScript 
-- 📫 Contactarme: fnicastro.torres@fmail.com 
+- 📫 Contactarme: fnicastro.torres@gmail.com 
 - ⚡ Curiosidades: guionista de historietas 
 
 
